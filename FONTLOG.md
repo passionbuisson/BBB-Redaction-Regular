@@ -52,3 +52,4 @@ When you make modifications, be sure to add your name (N), email (E), web-addres
 N: Titus Kaphar and Reginald Dwayne Betts D: Designer
 N: Bye Bye Binary D: Guide for inclusive typeface
 N: Marie Godefroy E: mariegodefroy51@gmail.com D: Designer
+N: Clara Bougon E: clara.bougon@lacambre.be D: Designer
